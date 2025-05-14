@@ -1,9 +1,11 @@
 from flask import Flask, render_template, jsonify
 import requests
+import os
 
 app = Flask(__name__)
 
-API_KEY = "YOUR_N2YO_API_KEY_HERE"
+
+API_KEY = os.getenv("N2YO_API_KEY")
 SAT_ID = "NORAD_ID"
 OBSERVER_LAT = 0
 OBSERVER_LNG = 0
