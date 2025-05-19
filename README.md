@@ -24,18 +24,18 @@ This is a web-based live satellite tracking application that tracks the **live l
 
 1. **Clone the repository:**
 
-   ```bash
+   #bash
    git clone https://github.com/yourusername/live-satellite-tracker.git
    cd live-satellite-tracker
 
 2. **Install dependencies:**
 
-   ```bash
+   #bash
    pip install -r requirements.txt
 
 3. **Run the Flask app:**
 
-   ```bash
+   #bash
    python app.py
 
 4. **Open in browser:**
@@ -46,7 +46,7 @@ This is a web-based live satellite tracking application that tracks the **live l
 ## 🔧 Configuration
 
 You can customize the following parameters in [app.py](app.py):
-   ```python
+   #python
    SAT_ID = 63428            # NORAD ID of the satellite
    OBSERVER_LAT = 0          # Observer latitude
    OBSERVER_LNG = 0          # Observer longitude
@@ -60,10 +60,10 @@ This app requires a free API key from [Official N2YO API Documentation](https://
 
  1. Sign up and generate your API key.
  2. Set the environment variable before running:
-   ```bash
+   #bash
    export N2YO_API_KEY=your_actual_key
- 3. In the `app.py` file, replace:
-   ```python
+ 3. In the [app.py](app.py) file, replace:
+   #python
    import os
    API_KEY = os.getenv("N2YO_API_KEY")
 
