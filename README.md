@@ -24,16 +24,18 @@ This is a web-based live satellite tracking application that tracks the **live l
 
 1. **Clone the repository:**
 
-   #bash
+   ```bash
    git clone https://github.com/yourusername/live-satellite-tracker.git
    cd live-satellite-tracker
-
+   ```
+   
 2. **Install dependencies:**
 
-   #bash
+   ```bash
    pip install -r requirements.txt
+   ```
 
-3. **Run the Flask app:**
+4. **Run the Flask app:**
 
    ```bash
    python app.py
