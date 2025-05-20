@@ -35,10 +35,11 @@ This is a web-based live satellite tracking application that tracks the **live l
 
 3. **Run the Flask app:**
 
-   #bash
+   ```bash
    python app.py
+   ```
 
-4. **Open in browser:**
+5. **Open in browser:**
 
    [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
