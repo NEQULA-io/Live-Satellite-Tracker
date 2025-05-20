@@ -3,7 +3,6 @@
 This is a web-based live satellite tracking application that tracks the **live location of a satellite in real time** using data from [N2YO](https://www.n2yo.com/). It displays the satellite's current position on a world map and updates it every 10 seconds.
 
 
-
 ## 🚀 Features
 
 - 🌍 Real-time satellite position tracking on a world map
@@ -58,6 +57,7 @@ OBSERVER_ALT = 0        # Observer altitude in meters
 SECONDS = 1             # Time window (in seconds) for fetching position data
 ```
 
+
 ## 🔐 API Key Setup
 
 This app requires a free API key from [Official N2YO API Documentation](https://www.n2yo.com/api/).
@@ -65,7 +65,7 @@ This app requires a free API key from [Official N2YO API Documentation](https://
  1. Sign up and generate your API key.
  2. Set the environment variable before running:
    ```bash
-   export N2YO_API_KEY=your_actual_key
+   export N2YO_API_KEY = your_actual_key
    ```
  4. In the [app.py](app.py) file, replace:
    ```python
