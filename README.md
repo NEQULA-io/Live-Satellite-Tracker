@@ -64,12 +64,14 @@ This app requires a free API key from [Official N2YO API Documentation](https://
 
  1. Sign up and generate your API key.
  2. Set the environment variable before running:
-   #bash
+   ```bash
    export N2YO_API_KEY=your_actual_key
- 3. In the [app.py](app.py) file, replace:
-   #python
+   ```
+ 4. In the [app.py](app.py) file, replace:
+   ```python
    import os
    API_KEY = os.getenv("N2YO_API_KEY")
+   ```
 
 
 ## 🔮 Live Tracker Preview
