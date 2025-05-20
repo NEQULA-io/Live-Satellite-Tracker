@@ -47,7 +47,7 @@ This is a web-based live satellite tracking application that tracks the **live l
 
 You can customize the following parameters in [app.py](app.py):
    
-```
+```python
 SAT_ID = 63428          # NORAD ID of the satellite
 OBSERVER_LAT = 0        # Observer latitude
 OBSERVER_LNG = 0        # Observer longitude
