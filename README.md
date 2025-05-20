@@ -35,7 +35,7 @@ This is a web-based live satellite tracking application that tracks the **live l
 
 3. **Run the Flask app:**
 
-   ```bash
+   ```python
    python app.py
    ```
 
