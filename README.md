@@ -84,7 +84,7 @@ This app requires a free API key from [Official N2YO API Documentation](https://
 MIT License. See [LICENSE](LICENSE) for details.
 
 
-# Acknowledgments
+## Acknowledgments
 
  - [Leaflet.js](https://leafletjs.com/)
  - [OpenStreetMap](https://www.openstreetmap.org/)
