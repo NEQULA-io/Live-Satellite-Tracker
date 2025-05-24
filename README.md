@@ -34,17 +34,17 @@ This is a web-based live satellite tracking application that tracks the **live l
 ## 🚀 Features
 
 - 🌍 Real-time satellite position tracking on a world map
-- 📈 Trajectory visualization using Leaflet.js
+- 📈 Trajectory visualization using ```Leaflet.js```
 - 🔄 Auto-updates every 10 seconds
-- ⚙️ Easily customizable for different satellite NORAD IDs
+- ⚙️ Easily customizable for different ```Satellite NORAD IDs```
 
 
 ## 🛠️ Tech Stack
 
-- 🌐 **Flask** as the backend server
-- 🗺 **Leaflet.js** for interactive map rendering
-- 📡 **N2YO Satellite API** for real-time orbital data
-- 🗺️ **OpenStreetMap** for base map tiles
+- 🌐 **```Flask```** as the backend server
+- 🗺 **```Leaflet.js```** for interactive map rendering
+- 📡 **```N2YO Satellite API```** for real-time orbital data
+- 🗺️ **```OpenStreetMap```** for base map tiles
 
 
 ## 📦 Installation
@@ -62,7 +62,7 @@ This is a web-based live satellite tracking application that tracks the **live l
    pip install -r requirements.txt
    ```
 
-4. **Run the Flask app:**
+4. **Run the ```Flask``` app:**
 
    ```bash
    python app.py
