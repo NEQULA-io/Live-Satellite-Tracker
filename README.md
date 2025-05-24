@@ -16,10 +16,14 @@
 <p align="center">Developed by Suyash Kumar // <a href="https://github.com/NEQULA-io">NEQULA</a></p>
 
 <p align="center">
-  <a href="#-🅣-thinkpad-fan-control-with-thinkfan">Overview</a> |
-  <a href="#-features">💡 Features</a> |
-  <a href="#-quick-start">🚀 Quick Start</a> |
-  <a href="#-contribution">🤝 Contribution</a>
+  <a href="#%EF%B8%8F-live-satellite-tracker">Overview</a> |
+  <a href="#-features">🚀 Features</a> |
+  <a href="#%EF%B8%8F-tech-stack">🛠️ Tech Stack</a> |
+  <a href="#-installation">📦 Installation</a> |
+  <a href="#-configuration">🔧 Configuration</a> |
+  <a href="#-api-key-setup">🔐 API Key Setup</a> |
+  <a href="#-live-tracker-preview">🔮 Live Tracker Preview</a> |
+  <a href="#-acknowledgments">🙏 Acknowledgments</a> |
 </p>
 
 # <p align="center">🛰️ Live Satellite Tracker</p>
