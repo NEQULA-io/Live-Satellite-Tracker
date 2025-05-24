@@ -103,12 +103,12 @@ API_KEY = os.getenv("N2YO_API_KEY")
    ![Live Tracker Preview](live_satellite_tracker.png)
 
 
-## License
+## 📜 License
 
 MIT License. See [LICENSE](LICENSE) for details.
 
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
  - [Leaflet.js](https://leafletjs.com/)
  - [OpenStreetMap](https://www.openstreetmap.org/)
