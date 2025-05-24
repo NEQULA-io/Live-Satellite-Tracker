@@ -75,7 +75,7 @@ This is a web-based live ```Satellite Tracking Application``` that tracks the **
 
 ## 🔧 Configuration
 
-You can customize the following parameters in [app.py](app.py):
+You can customize the following parameters in [```app.py```](app.py):
    
 ```python
 SAT_ID = 63428          # NORAD ID of the satellite
@@ -88,7 +88,7 @@ SECONDS = 1             # Time window (in seconds) for fetching position data
 
 ## 🔐 API Key Setup
 
-This app requires a free API key from [Official N2YO API Documentation](https://www.n2yo.com/api/).
+This app requires a free API key from [```Official N2YO API Documentation```](https://www.n2yo.com/api/).
 
 1. Sign up and generate your API key.
 2. Set the environment variable before running:
