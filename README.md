@@ -28,7 +28,7 @@
 
 # <p align="center">🛰️ Live Satellite Tracker</p>
 
-This is a web-based live ```Satellite Tracking application``` that tracks the **live location of a Satellite in real time** using data from [```N2YO```](https://www.n2yo.com/). It displays the satellite's current position on a world map and updates it every 10 seconds.
+This is a web-based live ```Satellite Tracking Application``` that tracks the **live location of a Satellite in real time** using data from [```N2YO```](https://www.n2yo.com/). It displays the satellite's current position on a world map and updates it every 10 seconds.
 
 
 ## 🚀 Features
